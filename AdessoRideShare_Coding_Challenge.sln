@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "source", "source", "{9665B55B-7079-4001-92F8-E595B3C54685}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{2F086AB8-54ED-4C8C-9AEA-8C1F8FC596B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{365FF9C9-8578-4C04-9465-AFC678185011}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdessoRideShare.Repository", "src\library\AdessoRideShare.Repository\AdessoRideShare.Repository.csproj", "{9ECCA2FC-91F5-4DA3-9958-25FA08D2E902}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdessoRideShare.API", "src\services\AdessoRideShare.WebApi\AdessoRideShare.API.csproj", "{A704C43A-913D-42C1-BD57-CA05819787C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECCA2FC-91F5-4DA3-9958-25FA08D2E902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECCA2FC-91F5-4DA3-9958-25FA08D2E902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECCA2FC-91F5-4DA3-9958-25FA08D2E902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECCA2FC-91F5-4DA3-9958-25FA08D2E902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A704C43A-913D-42C1-BD57-CA05819787C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A704C43A-913D-42C1-BD57-CA05819787C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A704C43A-913D-42C1-BD57-CA05819787C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A704C43A-913D-42C1-BD57-CA05819787C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F086AB8-54ED-4C8C-9AEA-8C1F8FC596B6} = {9665B55B-7079-4001-92F8-E595B3C54685}
+		{365FF9C9-8578-4C04-9465-AFC678185011} = {9665B55B-7079-4001-92F8-E595B3C54685}
+		{9ECCA2FC-91F5-4DA3-9958-25FA08D2E902} = {2F086AB8-54ED-4C8C-9AEA-8C1F8FC596B6}
+		{A704C43A-913D-42C1-BD57-CA05819787C2} = {365FF9C9-8578-4C04-9465-AFC678185011}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4DF5BD-B636-46C0-9535-00386C3EAB98}
+	EndGlobalSection
+EndGlobal

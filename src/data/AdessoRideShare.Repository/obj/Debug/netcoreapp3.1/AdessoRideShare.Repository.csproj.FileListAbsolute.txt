@@ -1,0 +1,10 @@
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\bin\Debug\netcoreapp3.1\AdessoRideShare.Repository.deps.json
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\bin\Debug\netcoreapp3.1\AdessoRideShare.Repository.dll
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\bin\Debug\netcoreapp3.1\AdessoRideShare.Repository.pdb
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\obj\Debug\netcoreapp3.1\AdessoRideShare.Repository.csproj.AssemblyReference.cache
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\obj\Debug\netcoreapp3.1\AdessoRideShare.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\obj\Debug\netcoreapp3.1\AdessoRideShare.Repository.AssemblyInfoInputs.cache
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\obj\Debug\netcoreapp3.1\AdessoRideShare.Repository.AssemblyInfo.cs
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\obj\Debug\netcoreapp3.1\AdessoRideShare.Repository.csproj.CoreCompileInputs.cache
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\obj\Debug\netcoreapp3.1\AdessoRideShare.Repository.dll
+C:\Users\bahar\Desktop\AdessoRideSharev1-master\src\library\AdessoRideShare.Repository\obj\Debug\netcoreapp3.1\AdessoRideShare.Repository.pdb
